@@ -186,6 +186,7 @@ body {
 .photo {
   width: 370px;
   margin-bottom: 50px;
+  border-radius: 30%;
 }
 .contacts,
 .tech-skills,
